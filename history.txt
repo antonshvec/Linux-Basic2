@@ -1,0 +1,51 @@
+
+  404  ls
+  405  mkdir animals
+  406  mkdir /home/dogs mkdir /home/cats mkdir /home/fish
+  407  su mkdir /home/dogs mkdir /home/cats mkdir /home/fish
+  408  mkdir /home/dogs
+  409  su mkdir /home/dogs
+  410  su mkdir home/dogs
+  411  ls
+  412  cd animals
+  413  mkdir fish 
+  414  mkdir dogs mkdir cats
+  415  mkdir animals
+  416  cd animals
+  417  mkdir dogs cats fish
+  418  touch  /home/dogs/pluto
+  419  touch  /home/dogs/pluto.txt
+  420  touch  /home/animals/dogs/pluto
+  421  touch  /home/animals/dogs/pluto.txt
+  422  cd
+  423  touch  /home/animals/dogs/pluto.txt
+  424  touch  /home/animals/dogs/pluto
+  425  ls
+  426  touch  /home/animals/dogs/pluto
+  427  touch  home/animals/dogs/pluto
+  428  cd /home/animals/dogs
+  429  cd home/animals/dogs
+  430  pwd
+  431  pw
+  432  pd
+  433  pwd
+  434  ls
+  435  cd
+  436  ls
+  437  pwd
+  438  touch  /home/anton/animals/dogs/pluto
+  439  touch  /home/anton/animals/cats/garfield
+  440  touch  /home/anton/animals/fish/nemo
+  441  touch  /home/anton/adam
+  442  mkdir /home/anton/humans
+  443  cp adam /home/anton/humans
+  444  mkdir /home/anton/tmp
+  445  touch /home/anton/tmp/evA
+  446  mkdir /home/anton/opt
+  447  mv /home/anton/tmp/evA /home/anton/opt/eve
+  448  mv /home/anton/opt/eve /home/anton/humans
+  449  ls /home/anton/humans
+  450  history > /tmp/history.txt
+  451  export_file /tmp/history.txt
+  452  export_file home/anton/tmp/history.txt
+  453  history > /home/anton/tmp/history.txt
